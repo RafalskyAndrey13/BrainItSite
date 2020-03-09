@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BrainItSite/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BrainItSite/static/js/main.4dd8001d.chunk.js",
+    "main.js.map": "/BrainItSite/static/js/main.4dd8001d.chunk.js.map",
+    "runtime-main.js": "/BrainItSite/static/js/runtime-main.3c2774d5.js",
+    "runtime-main.js.map": "/BrainItSite/static/js/runtime-main.3c2774d5.js.map",
+    "static/js/2.7daa1420.chunk.js": "/BrainItSite/static/js/2.7daa1420.chunk.js",
+    "static/js/2.7daa1420.chunk.js.map": "/BrainItSite/static/js/2.7daa1420.chunk.js.map",
+    "index.html": "/BrainItSite/index.html",
+    "precache-manifest.bc6f65f98874469a9227f3b9450634c3.js": "/BrainItSite/precache-manifest.bc6f65f98874469a9227f3b9450634c3.js",
+    "service-worker.js": "/BrainItSite/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BrainItSite/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7daa1420.chunk.js.LICENSE.txt": "/BrainItSite/static/js/2.7daa1420.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/BrainItSite/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c2774d5.js",
+    "static/js/2.7daa1420.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4dd8001d.chunk.js"
+  ]
+}
